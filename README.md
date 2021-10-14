@@ -2,6 +2,7 @@
 Required parts (Part numbers from McMaster-Carr):
 
 Round 1" Spacer w/ 1/4" screw hole - 93330A652	
+
 1/4"-20 5/8" Screw - 92220A184 
 
 1/4"-20 3/8" Screw - 92220A182
